@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "QKML53C37U.com.deloitte.testpoc",
+      "paths": ["*"]
+    }
+    ]
+  }
+}
